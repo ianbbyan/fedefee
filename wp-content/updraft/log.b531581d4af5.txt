@@ -1,0 +1,1166 @@
+0000.000 (0) Opened log file at time: Sun, 14 Sep 2025 12:00:25 +0000 on https://fedefee.com
+0000.045 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.2 PHP: 8.2.28 (litespeed, Linux de-fra-web1798.main-hosting.eu 5.14.0-503.34.1.el9_5.x86_64 #1 SMP PREEMPT_DYNAMIC Thu Mar 27 06:00:50 EDT 2025 x86_64) MySQL: 10.11.10-MariaDB-log (max packet size=1073741824) WPLANG: bg_BG Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 2048M (used: 28.5M | 30M) multisite: N openssl: OpenSSL 3.2.2 4 Jun 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.091 (0) Free space on disk containing Updraft's temporary directory: 10522867.9 MB
+0000.137 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.230 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.235 (0) Set semaphore last lock (fd) time to 2025-09-14 12:00:25
+0000.238 (0) Semaphore lock (fd) complete
+0000.244 (0) Backup run: resumption=0, nonce=b531581d4af5, file_nonce=b531581d4af5 begun at=1757851225 (0s ago), job type=backup
+0000.293 (0) Scheduling a resumption (1) after 300 seconds (1757851525) in case this run gets aborted
+0000.316 (0) Checking if we have a zip executable available
+0000.321 (0) Creation of backups of directories: beginning
+0000.328 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.587 (0) Total entities for the zip file: 4568 directories, 25869 files (0 skipped as non-modified), 386.7 MB
+0003.639 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.796 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 100 files added (on-disk size: 818.7 KB)
+0003.810 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 200 files added (on-disk size: 818.7 KB)
+0003.863 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 300 files added (on-disk size: 818.7 KB)
+0003.916 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 400 files added (on-disk size: 818.7 KB)
+0003.955 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 500 files added (on-disk size: 818.7 KB)
+0004.009 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 600 files added (on-disk size: 818.7 KB)
+0004.023 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 700 files added (on-disk size: 818.7 KB)
+0004.033 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 800 files added (on-disk size: 818.7 KB)
+0004.087 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 900 files added (on-disk size: 818.7 KB)
+0004.098 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1000 files added (on-disk size: 818.7 KB)
+0004.101 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.6 MB, 25869 files batched, 1001 (1002) added so far); re-opening (prior size: 818.7 KB)
+0005.061 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1100 files added (on-disk size: 7764 KB)
+0005.071 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1200 files added (on-disk size: 7764 KB)
+0005.127 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1300 files added (on-disk size: 7764 KB)
+0005.180 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1400 files added (on-disk size: 7764 KB)
+0005.233 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1500 files added (on-disk size: 7764 KB)
+0005.290 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1600 files added (on-disk size: 7764 KB)
+0005.304 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1700 files added (on-disk size: 7764 KB)
+0005.359 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1800 files added (on-disk size: 7764 KB)
+0005.413 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 1900 files added (on-disk size: 7764 KB)
+0005.469 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2000 files added (on-disk size: 7764 KB)
+0005.513 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.8 MB, 25869 files batched, 1001 (2003) added so far); re-opening (prior size: 7764 KB)
+0006.132 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2100 files added (on-disk size: 9463.2 KB)
+0006.149 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2200 files added (on-disk size: 9463.2 KB)
+0006.168 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2300 files added (on-disk size: 9463.2 KB)
+0006.228 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2400 files added (on-disk size: 9463.2 KB)
+0006.244 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2500 files added (on-disk size: 9463.2 KB)
+0006.301 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2600 files added (on-disk size: 9463.2 KB)
+0006.356 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2700 files added (on-disk size: 9463.2 KB)
+0006.412 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2800 files added (on-disk size: 9463.2 KB)
+0006.462 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26.5 MB, 25869 files batched, 872 (2875) added so far); re-opening (prior size: 9463.2 KB)
+0007.804 (0) A useful amount of data was added after this amount of zip processing: 2.1 s (normalised: 2 s, rate: 12684.4 KB/s)
+0007.812 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.1430130004883, normalised_time=2.0182265424069, max_time=7.8079490661621, data points known=1, old_max_bytes=26214400, new_max_bytes=77932975)
+0007.868 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 2900 files added (on-disk size: 16719.6 KB)
+0007.884 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3000 files added (on-disk size: 16719.6 KB)
+0007.901 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3100 files added (on-disk size: 16719.6 KB)
+0007.912 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3200 files added (on-disk size: 16719.6 KB)
+0007.966 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3300 files added (on-disk size: 16719.6 KB)
+0008.027 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3400 files added (on-disk size: 16719.6 KB)
+0008.041 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3500 files added (on-disk size: 16719.6 KB)
+0008.054 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3600 files added (on-disk size: 16719.6 KB)
+0008.068 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3700 files added (on-disk size: 16719.6 KB)
+0008.084 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3800 files added (on-disk size: 16719.6 KB)
+0008.098 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (29.3 MB, 25869 files batched, 1001 (3876) added so far); re-opening (prior size: 16719.6 KB)
+0009.926 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 3900 files added (on-disk size: 25083.9 KB)
+0009.942 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4000 files added (on-disk size: 25083.9 KB)
+0009.957 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4100 files added (on-disk size: 25083.9 KB)
+0010.012 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4200 files added (on-disk size: 25083.9 KB)
+0010.027 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4300 files added (on-disk size: 25083.9 KB)
+0010.041 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4400 files added (on-disk size: 25083.9 KB)
+0010.056 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4500 files added (on-disk size: 25083.9 KB)
+0010.070 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4600 files added (on-disk size: 25083.9 KB)
+0010.083 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4700 files added (on-disk size: 25083.9 KB)
+0010.099 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4800 files added (on-disk size: 25083.9 KB)
+0010.119 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.7 MB, 25869 files batched, 1001 (4877) added so far); re-opening (prior size: 25083.9 KB)
+0010.699 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 4900 files added (on-disk size: 27041.1 KB)
+0010.711 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5000 files added (on-disk size: 27041.1 KB)
+0010.766 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5100 files added (on-disk size: 27041.1 KB)
+0010.781 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5200 files added (on-disk size: 27041.1 KB)
+0010.795 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5300 files added (on-disk size: 27041.1 KB)
+0010.811 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5400 files added (on-disk size: 27041.1 KB)
+0010.826 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5500 files added (on-disk size: 27041.1 KB)
+0010.885 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5600 files added (on-disk size: 27041.1 KB)
+0010.902 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5700 files added (on-disk size: 27041.1 KB)
+0010.954 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5800 files added (on-disk size: 27041.1 KB)
+0011.006 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.3 MB, 25869 files batched, 1001 (5878) added so far); re-opening (prior size: 27041.1 KB)
+0011.981 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 5900 files added (on-disk size: 30497.9 KB)
+0011.995 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6000 files added (on-disk size: 30497.9 KB)
+0012.007 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6100 files added (on-disk size: 30497.9 KB)
+0012.019 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6200 files added (on-disk size: 30497.9 KB)
+0012.035 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6300 files added (on-disk size: 30497.9 KB)
+0012.049 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6400 files added (on-disk size: 30497.9 KB)
+0012.063 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6500 files added (on-disk size: 30497.9 KB)
+0012.120 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6600 files added (on-disk size: 30497.9 KB)
+0012.175 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6700 files added (on-disk size: 30497.9 KB)
+0012.191 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6800 files added (on-disk size: 30497.9 KB)
+0012.242 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (25 MB, 25869 files batched, 1001 (6879) added so far); re-opening (prior size: 30497.9 KB)
+0014.123 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 6900 files added (on-disk size: 39430.8 KB)
+0014.178 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7000 files added (on-disk size: 39430.8 KB)
+0014.190 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7100 files added (on-disk size: 39430.8 KB)
+0014.242 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7200 files added (on-disk size: 39430.8 KB)
+0014.297 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7300 files added (on-disk size: 39430.8 KB)
+0014.310 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7400 files added (on-disk size: 39430.8 KB)
+0014.325 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7500 files added (on-disk size: 39430.8 KB)
+0014.341 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7600 files added (on-disk size: 39430.8 KB)
+0014.356 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7700 files added (on-disk size: 39430.8 KB)
+0014.371 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7800 files added (on-disk size: 39430.8 KB)
+0014.384 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.6 MB, 25869 files batched, 1001 (7880) added so far); re-opening (prior size: 39430.8 KB)
+0015.011 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 7900 files added (on-disk size: 41444.3 KB)
+0015.066 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8000 files added (on-disk size: 41444.3 KB)
+0015.123 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8100 files added (on-disk size: 41444.3 KB)
+0015.176 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8200 files added (on-disk size: 41444.3 KB)
+0015.231 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8300 files added (on-disk size: 41444.3 KB)
+0015.246 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8400 files added (on-disk size: 41444.3 KB)
+0015.302 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8500 files added (on-disk size: 41444.3 KB)
+0015.358 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8600 files added (on-disk size: 41444.3 KB)
+0015.413 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8700 files added (on-disk size: 41444.3 KB)
+0015.466 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8800 files added (on-disk size: 41444.3 KB)
+0015.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.1 MB, 25869 files batched, 1001 (8881) added so far); re-opening (prior size: 41444.3 KB)
+0016.513 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 8900 files added (on-disk size: 45649.6 KB)
+0016.567 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9000 files added (on-disk size: 45649.6 KB)
+0016.622 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9100 files added (on-disk size: 45649.6 KB)
+0016.676 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9200 files added (on-disk size: 45649.6 KB)
+0016.730 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9300 files added (on-disk size: 45649.6 KB)
+0016.744 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9400 files added (on-disk size: 45649.6 KB)
+0016.801 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9500 files added (on-disk size: 45649.6 KB)
+0016.818 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9600 files added (on-disk size: 45649.6 KB)
+0016.873 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9700 files added (on-disk size: 45649.6 KB)
+0016.891 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9800 files added (on-disk size: 45649.6 KB)
+0016.945 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.6 MB, 25869 files batched, 1001 (9882) added so far); re-opening (prior size: 45649.6 KB)
+0017.656 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 9900 files added (on-disk size: 48196.6 KB)
+0017.668 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10000 files added (on-disk size: 48196.6 KB)
+0017.684 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10100 files added (on-disk size: 48196.6 KB)
+0017.697 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10200 files added (on-disk size: 48196.6 KB)
+0017.754 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10300 files added (on-disk size: 48196.6 KB)
+0017.767 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10400 files added (on-disk size: 48196.6 KB)
+0017.780 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10500 files added (on-disk size: 48196.6 KB)
+0017.792 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10600 files added (on-disk size: 48196.6 KB)
+0017.847 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10700 files added (on-disk size: 48196.6 KB)
+0017.861 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10800 files added (on-disk size: 48196.6 KB)
+0017.875 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.1 MB, 25869 files batched, 1001 (10883) added so far); re-opening (prior size: 48196.6 KB)
+0018.483 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 10900 files added (on-disk size: 55030.6 KB)
+0018.541 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11000 files added (on-disk size: 55030.6 KB)
+0018.597 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11100 files added (on-disk size: 55030.6 KB)
+0018.654 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11200 files added (on-disk size: 55030.6 KB)
+0018.667 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11300 files added (on-disk size: 55030.6 KB)
+0018.726 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11400 files added (on-disk size: 55030.6 KB)
+0018.741 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11500 files added (on-disk size: 55030.6 KB)
+0018.795 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11600 files added (on-disk size: 55030.6 KB)
+0018.810 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11700 files added (on-disk size: 55030.6 KB)
+0018.826 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11800 files added (on-disk size: 55030.6 KB)
+0018.880 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10 MB, 25869 files batched, 1001 (11884) added so far); re-opening (prior size: 55030.6 KB)
+0019.776 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 11900 files added (on-disk size: 57524.2 KB)
+0019.833 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12000 files added (on-disk size: 57524.2 KB)
+0019.888 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12100 files added (on-disk size: 57524.2 KB)
+0019.901 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12200 files added (on-disk size: 57524.2 KB)
+0019.956 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12300 files added (on-disk size: 57524.2 KB)
+0020.009 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12400 files added (on-disk size: 57524.2 KB)
+0020.022 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12500 files added (on-disk size: 57524.2 KB)
+0020.032 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12600 files added (on-disk size: 57524.2 KB)
+0020.084 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12700 files added (on-disk size: 57524.2 KB)
+0020.140 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12800 files added (on-disk size: 57524.2 KB)
+0020.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.9 MB, 25869 files batched, 1001 (12885) added so far); re-opening (prior size: 57524.2 KB)
+0020.978 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 12900 files added (on-disk size: 59587.4 KB)
+0020.994 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13000 files added (on-disk size: 59587.4 KB)
+0021.008 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13100 files added (on-disk size: 59587.4 KB)
+0021.023 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13200 files added (on-disk size: 59587.4 KB)
+0021.035 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13300 files added (on-disk size: 59587.4 KB)
+0021.046 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13400 files added (on-disk size: 59587.4 KB)
+0021.103 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13500 files added (on-disk size: 59587.4 KB)
+0021.161 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13600 files added (on-disk size: 59587.4 KB)
+0021.219 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13700 files added (on-disk size: 59587.4 KB)
+0021.276 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13800 files added (on-disk size: 59587.4 KB)
+0021.305 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.1 MB, 25869 files batched, 1001 (13886) added so far); re-opening (prior size: 59587.4 KB)
+0021.939 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 13900 files added (on-disk size: 61251.9 KB)
+0021.953 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14000 files added (on-disk size: 61251.9 KB)
+0022.006 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14100 files added (on-disk size: 61251.9 KB)
+0022.059 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14200 files added (on-disk size: 61251.9 KB)
+0022.113 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14300 files added (on-disk size: 61251.9 KB)
+0022.128 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14400 files added (on-disk size: 61251.9 KB)
+0022.142 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14500 files added (on-disk size: 61251.9 KB)
+0022.196 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14600 files added (on-disk size: 61251.9 KB)
+0022.209 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14700 files added (on-disk size: 61251.9 KB)
+0022.221 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14800 files added (on-disk size: 61251.9 KB)
+0022.274 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.9 MB, 25869 files batched, 1001 (14887) added so far); re-opening (prior size: 61251.9 KB)
+0023.555 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 14900 files added (on-disk size: 65965.4 KB)
+0023.566 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15000 files added (on-disk size: 65965.4 KB)
+0023.579 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15100 files added (on-disk size: 65965.4 KB)
+0023.594 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15200 files added (on-disk size: 65965.4 KB)
+0023.648 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15300 files added (on-disk size: 65965.4 KB)
+0023.703 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15400 files added (on-disk size: 65965.4 KB)
+0023.757 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15500 files added (on-disk size: 65965.4 KB)
+0023.811 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15600 files added (on-disk size: 65965.4 KB)
+0023.866 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15700 files added (on-disk size: 65965.4 KB)
+0023.880 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15800 files added (on-disk size: 65965.4 KB)
+0023.890 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.5 MB, 25869 files batched, 1001 (15888) added so far); re-opening (prior size: 65965.4 KB)
+0025.695 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 15900 files added (on-disk size: 73375.7 KB)
+0025.755 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16000 files added (on-disk size: 73375.7 KB)
+0025.810 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16100 files added (on-disk size: 73375.7 KB)
+0025.826 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16200 files added (on-disk size: 73375.7 KB)
+0025.878 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16300 files added (on-disk size: 73375.7 KB)
+0025.931 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16400 files added (on-disk size: 73375.7 KB)
+0025.942 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16500 files added (on-disk size: 73375.7 KB)
+0025.997 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16600 files added (on-disk size: 73375.7 KB)
+0026.051 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16700 files added (on-disk size: 73375.7 KB)
+0026.107 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16800 files added (on-disk size: 73375.7 KB)
+0026.117 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.9 MB, 25869 files batched, 1001 (16889) added so far); re-opening (prior size: 73375.7 KB)
+0027.524 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 16900 files added (on-disk size: 77683.7 KB)
+0027.576 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17000 files added (on-disk size: 77683.7 KB)
+0027.630 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17100 files added (on-disk size: 77683.7 KB)
+0027.682 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17200 files added (on-disk size: 77683.7 KB)
+0027.739 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17300 files added (on-disk size: 77683.7 KB)
+0027.753 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17400 files added (on-disk size: 77683.7 KB)
+0027.810 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17500 files added (on-disk size: 77683.7 KB)
+0027.865 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17600 files added (on-disk size: 77683.7 KB)
+0027.919 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17700 files added (on-disk size: 77683.7 KB)
+0027.973 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17800 files added (on-disk size: 77683.7 KB)
+0028.025 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.7 MB, 25869 files batched, 1001 (17890) added so far); re-opening (prior size: 77683.7 KB)
+0029.168 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 17900 files added (on-disk size: 81111.3 KB)
+0029.183 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18000 files added (on-disk size: 81111.3 KB)
+0029.198 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18100 files added (on-disk size: 81111.3 KB)
+0029.253 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18200 files added (on-disk size: 81111.3 KB)
+0029.266 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18300 files added (on-disk size: 81111.3 KB)
+0029.280 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18400 files added (on-disk size: 81111.3 KB)
+0029.335 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18500 files added (on-disk size: 81111.3 KB)
+0029.347 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18600 files added (on-disk size: 81111.3 KB)
+0029.402 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18700 files added (on-disk size: 81111.3 KB)
+0029.413 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18800 files added (on-disk size: 81111.3 KB)
+0029.465 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6 MB, 25869 files batched, 1001 (18891) added so far); re-opening (prior size: 81111.3 KB)
+0030.260 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 18900 files added (on-disk size: 82614.5 KB)
+0030.316 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19000 files added (on-disk size: 82614.5 KB)
+0030.329 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19100 files added (on-disk size: 82614.5 KB)
+0030.344 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19200 files added (on-disk size: 82614.5 KB)
+0030.359 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19300 files added (on-disk size: 82614.5 KB)
+0030.373 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19400 files added (on-disk size: 82614.5 KB)
+0030.429 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19500 files added (on-disk size: 82614.5 KB)
+0030.444 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19600 files added (on-disk size: 82614.5 KB)
+0030.456 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19700 files added (on-disk size: 82614.5 KB)
+0030.467 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19800 files added (on-disk size: 82614.5 KB)
+0030.477 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (30 MB, 25869 files batched, 1001 (19892) added so far); re-opening (prior size: 82614.5 KB)
+0033.340 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 19900 files added (on-disk size: 89432.9 KB)
+0033.353 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20000 files added (on-disk size: 89432.9 KB)
+0033.368 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20100 files added (on-disk size: 89432.9 KB)
+0033.423 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20200 files added (on-disk size: 89432.9 KB)
+0033.437 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20300 files added (on-disk size: 89432.9 KB)
+0033.498 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20400 files added (on-disk size: 89432.9 KB)
+0033.514 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20500 files added (on-disk size: 89432.9 KB)
+0033.532 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20600 files added (on-disk size: 89432.9 KB)
+0033.549 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20700 files added (on-disk size: 89432.9 KB)
+0033.609 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20800 files added (on-disk size: 89432.9 KB)
+0033.667 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.9 MB, 25869 files batched, 1001 (20893) added so far); re-opening (prior size: 89432.9 KB)
+0034.594 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 20900 files added (on-disk size: 93921.6 KB)
+0034.610 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21000 files added (on-disk size: 93921.6 KB)
+0034.669 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21100 files added (on-disk size: 93921.6 KB)
+0034.730 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21200 files added (on-disk size: 93921.6 KB)
+0034.786 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21300 files added (on-disk size: 93921.6 KB)
+0034.840 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21400 files added (on-disk size: 93921.6 KB)
+0034.897 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21500 files added (on-disk size: 93921.6 KB)
+0034.912 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21600 files added (on-disk size: 93921.6 KB)
+0034.928 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21700 files added (on-disk size: 93921.6 KB)
+0034.987 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21800 files added (on-disk size: 93921.6 KB)
+0035.003 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.5 MB, 25869 files batched, 1001 (21894) added so far); re-opening (prior size: 93921.6 KB)
+0035.903 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 21900 files added (on-disk size: 96350.1 KB)
+0035.922 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22000 files added (on-disk size: 96350.1 KB)
+0035.940 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22100 files added (on-disk size: 96350.1 KB)
+0035.959 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22200 files added (on-disk size: 96350.1 KB)
+0035.975 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22300 files added (on-disk size: 96350.1 KB)
+0035.993 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22400 files added (on-disk size: 96350.1 KB)
+0036.008 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22500 files added (on-disk size: 96350.1 KB)
+0036.027 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22600 files added (on-disk size: 96350.1 KB)
+0036.085 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22700 files added (on-disk size: 96350.1 KB)
+0036.102 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22800 files added (on-disk size: 96350.1 KB)
+0036.158 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (30.8 MB, 25869 files batched, 1001 (22895) added so far); re-opening (prior size: 96350.1 KB)
+0038.996 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 22900 files added (on-disk size: 110786.6 KB)
+0039.056 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23000 files added (on-disk size: 110786.6 KB)
+0039.115 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23100 files added (on-disk size: 110786.6 KB)
+0039.175 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23200 files added (on-disk size: 110786.6 KB)
+0039.193 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23300 files added (on-disk size: 110786.6 KB)
+0039.252 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23400 files added (on-disk size: 110786.6 KB)
+0039.309 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23500 files added (on-disk size: 110786.6 KB)
+0039.324 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23600 files added (on-disk size: 110786.6 KB)
+0039.339 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23700 files added (on-disk size: 110786.6 KB)
+0039.365 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23800 files added (on-disk size: 110786.6 KB)
+0039.383 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.8 MB, 25869 files batched, 1001 (23896) added so far); re-opening (prior size: 110786.6 KB)
+0041.986 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 23900 files added (on-disk size: 122473 KB)
+0042.007 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24000 files added (on-disk size: 122473 KB)
+0042.023 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24100 files added (on-disk size: 122473 KB)
+0042.038 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24200 files added (on-disk size: 122473 KB)
+0042.093 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24300 files added (on-disk size: 122473 KB)
+0042.108 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24400 files added (on-disk size: 122473 KB)
+0042.164 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24500 files added (on-disk size: 122473 KB)
+0042.181 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24600 files added (on-disk size: 122473 KB)
+0042.196 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24700 files added (on-disk size: 122473 KB)
+0042.209 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24800 files added (on-disk size: 122473 KB)
+0042.226 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.4 MB, 25869 files batched, 1001 (24897) added so far); re-opening (prior size: 122473 KB)
+0043.386 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 24900 files added (on-disk size: 127567.8 KB)
+0043.413 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 25000 files added (on-disk size: 127567.8 KB)
+0043.430 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 25100 files added (on-disk size: 127567.8 KB)
+0043.503 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 25200 files added (on-disk size: 127567.8 KB)
+0043.523 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 25300 files added (on-disk size: 127567.8 KB)
+0043.538 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 25400 files added (on-disk size: 127567.8 KB)
+0043.553 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 25500 files added (on-disk size: 127567.8 KB)
+0043.570 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 25600 files added (on-disk size: 127567.8 KB)
+0043.588 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 25700 files added (on-disk size: 127567.8 KB)
+0043.605 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.tmp: 25800 files added (on-disk size: 127567.8 KB)
+0045.844 (0) Creating zip file manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.list-temp.tmp)
+0045.917 (0) Successfully created zip file manifest (size: 2298755)
+0046.962 (0) Created plugins zip (0) - 131963.1 KB in 46.6 s (2830.1 KB/s) (sha1: b15a1351534b2bd413a1ea436db52454700f9037, sha256: 9c78647e3df1a368c4d266afd24fdcf6c25388cadcba76b214a87368943502f0)
+0046.985 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0046.987 (0) No remote despatch: user chose no remote backup service
+0046.990 (0) Recording as successfully uploaded: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip
+0046.995 (0) Deleting zip manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip.list.tmp)
+0047.001 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0047.007 (0) Number of backup sets in history: 1; groups (db): 1
+0047.010 (0) Examining (for databases) backup set with group_id=0, nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0047.014 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0047.018 (0) Number of backup sets in history: 1; groups (files): 1
+0047.021 (0) Examining (for files) backup set with nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0047.021 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0047.066 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0047.082 (0) Beginning creation of dump of themes (split every: 400 MB)
+0047.166 (0) Total entities for the zip file: 84 directories, 579 files (0 skipped as non-modified), 17.7 MB
+0047.186 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0047.199 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0047.251 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0047.284 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0047.337 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0048.060 (0) Creating zip file manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-themes.zip.list-temp.tmp)
+0048.106 (0) Successfully created zip file manifest (size: 39107)
+0048.257 (0) Created themes zip (0) - 14130.4 KB in 1.2 s (12074.9 KB/s) (sha1: 9a7984060a83541152f9f26a22fbf31d5204aded, sha256: c524bbab6be3aac4c08e246e6a4409c65ff2e39c2576968f775dc73e56cc8af0)
+0048.263 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0048.308 (0) No remote despatch: user chose no remote backup service
+0048.311 (0) Recording as successfully uploaded: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-themes.zip
+0048.315 (0) Deleting zip manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-themes.zip.list.tmp)
+0048.361 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0048.405 (0) Number of backup sets in history: 1; groups (db): 1
+0048.409 (0) Examining (for databases) backup set with group_id=0, nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0048.409 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0048.412 (0) Number of backup sets in history: 1; groups (files): 1
+0048.415 (0) Examining (for files) backup set with nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0048.415 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0048.459 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0048.512 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0048.515 (0) Looking for candidates to backup in: /home/u228945434/domains/fedefee.com/public_html/wp-content/uploads
+0048.559 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (1)
+0048.603 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (2)
+0048.648 (0) finding files: eb-patterns: adding to list (3)
+0048.651 (0) finding files: 2021: adding to list (4)
+0048.697 (0) finding files: elementor: adding to list (5)
+0048.701 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (6)
+0048.705 (0) finding files: woo-bg: adding to list (7)
+0048.710 (0) finding files: woocommerce_uploads: adding to list (8)
+0048.714 (0) finding files: wpcf7_uploads: adding to list (9)
+0048.717 (0) finding files: cache: adding to list (10)
+0048.763 (0) finding files: woocommerce-placeholder.png: adding to list (11)
+0048.767 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (12)
+0048.771 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (13)
+0048.816 (0) finding files: goldish: adding to list (14)
+0048.820 (0) finding files: essential-addons-elementor: adding to list (15)
+0048.830 (0) finding files: woo-feed: adding to list (16)
+0048.875 (0) finding files: 2024: adding to list (17)
+0048.878 (0) finding files: wc-imports: adding to list (18)
+0048.882 (0) finding files: embedpress: adding to list (19)
+0048.886 (0) finding files: wc-logs: adding to list (20)
+0048.889 (0) finding files: wpforms: adding to list (21)
+0048.892 (0) finding files: ideapark_fonts: adding to list (22)
+0048.898 (0) finding files: 2025: adding to list (23)
+0048.905 (0) finding files: 2022: adding to list (24)
+0048.909 (0) finding files: wpseo-redirects: adding to list (25)
+0048.913 (0) finding files: wpallimport: adding to list (26)
+0048.917 (0) finding files: flags: adding to list (27)
+0048.922 (0) finding files: 2023: adding to list (28)
+0048.967 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (29)
+0048.971 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0049.954 (0) Total entities for the zip file: 97 directories, 7911 files (0 skipped as non-modified), 569 MB
+0049.967 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0049.986 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0050.003 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0050.019 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0050.035 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0050.051 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0050.063 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 700 files added (on-disk size: 0 KB)
+0050.078 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 800 files added (on-disk size: 0 KB)
+0050.138 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 900 files added (on-disk size: 0 KB)
+0050.154 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0050.199 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.1 MB, 7911 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0050.496 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1100 files added (on-disk size: 12420.6 KB)
+0050.512 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1200 files added (on-disk size: 12420.6 KB)
+0050.566 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1300 files added (on-disk size: 12420.6 KB)
+0050.583 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1400 files added (on-disk size: 12420.6 KB)
+0050.600 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1500 files added (on-disk size: 12420.6 KB)
+0050.617 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1600 files added (on-disk size: 12420.6 KB)
+0050.632 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1700 files added (on-disk size: 12420.6 KB)
+0050.648 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1800 files added (on-disk size: 12420.6 KB)
+0050.665 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 1900 files added (on-disk size: 12420.6 KB)
+0050.692 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2000 files added (on-disk size: 12420.6 KB)
+0050.697 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.9 MB, 7911 files batched, 1001 (2002) added so far); re-opening (prior size: 12420.6 KB)
+0051.039 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2100 files added (on-disk size: 26854.6 KB)
+0051.097 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2200 files added (on-disk size: 26854.6 KB)
+0051.115 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2300 files added (on-disk size: 26854.6 KB)
+0051.170 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2400 files added (on-disk size: 26854.6 KB)
+0051.184 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2500 files added (on-disk size: 26854.6 KB)
+0051.195 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2600 files added (on-disk size: 26854.6 KB)
+0051.209 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2700 files added (on-disk size: 26854.6 KB)
+0051.227 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2800 files added (on-disk size: 26854.6 KB)
+0051.239 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 2900 files added (on-disk size: 26854.6 KB)
+0051.252 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3000 files added (on-disk size: 26854.6 KB)
+0051.255 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (54.6 MB, 7911 files batched, 1001 (3003) added so far); re-opening (prior size: 26854.6 KB)
+0052.871 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3100 files added (on-disk size: 75237.8 KB)
+0052.887 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3200 files added (on-disk size: 75237.8 KB)
+0052.903 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3300 files added (on-disk size: 75237.8 KB)
+0052.950 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 74.3 MB added on this batch (105.9 MB, 7911 files batched, 311 (3314) added so far); re-opening (prior size: 75237.8 KB)
+0054.851 (0) A useful amount of data was added after this amount of zip processing: 2.2 s (normalised: 1.5 s, rate: 49498 KB/s)
+0054.908 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.1901330947876, normalised_time=1.5375663508385, max_time=54.905673027039, data points known=1, old_max_bytes=77932975, new_max_bytes=209715200)
+0054.949 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3400 files added (on-disk size: 183636.8 KB)
+0054.965 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3500 files added (on-disk size: 183636.8 KB)
+0055.021 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3600 files added (on-disk size: 183636.8 KB)
+0055.041 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3700 files added (on-disk size: 183636.8 KB)
+0055.058 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3800 files added (on-disk size: 183636.8 KB)
+0055.076 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 3900 files added (on-disk size: 183636.8 KB)
+0055.094 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4000 files added (on-disk size: 183636.8 KB)
+0055.110 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4100 files added (on-disk size: 183636.8 KB)
+0055.126 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4200 files added (on-disk size: 183636.8 KB)
+0055.139 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4300 files added (on-disk size: 183636.8 KB)
+0055.144 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (58.1 MB, 7911 files batched, 1001 (4315) added so far); re-opening (prior size: 183636.8 KB)
+0058.394 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4400 files added (on-disk size: 243084.9 KB)
+0058.451 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4500 files added (on-disk size: 243084.9 KB)
+0058.512 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4600 files added (on-disk size: 243084.9 KB)
+0058.525 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4700 files added (on-disk size: 243084.9 KB)
+0058.581 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4800 files added (on-disk size: 243084.9 KB)
+0058.637 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 4900 files added (on-disk size: 243084.9 KB)
+0058.653 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5000 files added (on-disk size: 243084.9 KB)
+0058.667 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5100 files added (on-disk size: 243084.9 KB)
+0058.692 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5200 files added (on-disk size: 243084.9 KB)
+0058.748 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5300 files added (on-disk size: 243084.9 KB)
+0058.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (60.3 MB, 7911 files batched, 1001 (5316) added so far); re-opening (prior size: 243084.9 KB)
+0061.988 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5400 files added (on-disk size: 304771.3 KB)
+0062.064 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5500 files added (on-disk size: 304771.3 KB)
+0062.122 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5600 files added (on-disk size: 304771.3 KB)
+0062.133 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5700 files added (on-disk size: 304771.3 KB)
+0062.145 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5800 files added (on-disk size: 304771.3 KB)
+0062.201 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 5900 files added (on-disk size: 304771.3 KB)
+0062.217 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 6000 files added (on-disk size: 304771.3 KB)
+0062.232 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 6100 files added (on-disk size: 304771.3 KB)
+0062.247 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 6200 files added (on-disk size: 304771.3 KB)
+0062.260 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 6300 files added (on-disk size: 304771.3 KB)
+0062.307 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (82.2 MB, 7911 files batched, 1001 (6317) added so far); re-opening (prior size: 304771.3 KB)
+0066.473 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 6400 files added (on-disk size: 388959.9 KB)
+0066.534 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.tmp: 6500 files added (on-disk size: 388959.9 KB)
+0066.541 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (18.4 MB, 216 (6533) files added so far); last ratio: 0.9997; re-opening (prior size: 388959.9 KB)
+0070.308 (0) Zip size is at/near split limit (398.2 MB / 400 MB) - bumping index (from: 0)
+0073.563 (0) Creating zip file manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.list-temp.tmp)
+0073.628 (0) Successfully created zip file manifest (size: 348768)
+0073.674 (0) Created uploads zip (0) - 407799.8 KB in 21.4 s (19075.7 KB/s) (checksums: sha1: bdcc95594b9ae948a764b0b1f20a53a38692e0c9, sha256: bf4cb3b8b7c61481f15af0601782210939577a0427f88ea8676a5891a133fc1c)
+0073.688 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0073.692 (0) No remote despatch: user chose no remote backup service
+0073.699 (0) Recording as successfully uploaded: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip
+0073.746 (0) Deleting zip manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip.list.tmp)
+0073.751 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0073.795 (0) Number of backup sets in history: 1; groups (db): 1
+0073.799 (0) Examining (for databases) backup set with group_id=0, nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0073.843 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0073.846 (0) Number of backup sets in history: 1; groups (files): 1
+0073.849 (0) Examining (for files) backup set with nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0073.849 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0073.853 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0073.861 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (6534) files added so far); re-opening (prior size: 0 KB)
+0073.876 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 6600 files added (on-disk size: 3.6 KB)
+0073.895 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 6700 files added (on-disk size: 3.6 KB)
+0073.955 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 6800 files added (on-disk size: 3.6 KB)
+0074.018 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 6900 files added (on-disk size: 3.6 KB)
+0074.079 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7000 files added (on-disk size: 3.6 KB)
+0074.098 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7100 files added (on-disk size: 3.6 KB)
+0074.114 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7200 files added (on-disk size: 3.6 KB)
+0074.173 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7300 files added (on-disk size: 3.6 KB)
+0074.193 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7400 files added (on-disk size: 3.6 KB)
+0074.247 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7500 files added (on-disk size: 3.6 KB)
+0074.296 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (144.9 MB, 7911 files batched, 1001 (7535) added so far); re-opening (prior size: 3.6 KB)
+0076.870 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7600 files added (on-disk size: 148543.2 KB)
+0076.885 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7700 files added (on-disk size: 148543.2 KB)
+0076.901 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7800 files added (on-disk size: 148543.2 KB)
+0076.959 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.tmp: 7900 files added (on-disk size: 148543.2 KB)
+0078.093 (0) Creating zip file manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.list-temp.tmp)
+0078.101 (0) Successfully created zip file manifest (size: 77029)
+0079.352 (0) Created uploads zip (1) - 165247.8 KB in 5.7 s (29143.6 KB/s) (sha1: a36c29f15e9b3b2a2f94ad7b93be2193b79911f1, sha256: 6bed54be1b20903085bfa7f5e60cebf27592114d262dce3942063bba8ca5c444)
+0079.360 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0079.364 (0) No remote despatch: user chose no remote backup service
+0079.408 (0) Recording as successfully uploaded: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip
+0079.454 (0) Deleting zip manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip.list.tmp)
+0079.521 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0079.524 (0) Number of backup sets in history: 1; groups (db): 1
+0079.567 (0) Examining (for databases) backup set with group_id=0, nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0079.570 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.574 (0) Number of backup sets in history: 1; groups (files): 1
+0079.617 (0) Examining (for files) backup set with nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0079.617 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.620 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0079.628 (0) No backup of mu-plugins: excluded by user's options
+0079.633 (0) Beginning backup of other directories found in the content directory (index: 0)
+0079.679 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0079.683 (0) Looking for candidates to backup in: /home/u228945434/domains/fedefee.com/public_html/wp-content
+0079.686 (0) finding files: updraft: skipping: this is the updraft directory
+0079.689 (0) finding files: uploads: skipping: this is the uploads directory
+0079.692 (0) finding files: .litespeed_conf.dat: adding to list (1)
+0079.737 (0) finding files: litespeed: adding to list (2)
+0079.740 (0) finding files: cache: skipping: excluded by options
+0079.784 (0) finding files: plugins: skipping: this is the plugins directory
+0079.787 (0) finding files: upgrade: skipping: excluded by options
+0079.790 (0) finding files: object-cache.php: adding to list (3)
+0079.835 (0) finding files: themes: skipping: this is the themes directory
+0079.839 (0) finding files: upgrade-temp-backup: adding to list (4)
+0079.842 (0) finding files: index.php: adding to list (5)
+0079.845 (0) finding files: mu-plugins: skipping: this is the mu-plugins directory
+0079.849 (0) finding files: languages: adding to list (6)
+0079.921 (0) Total entities for the zip file: 11 directories, 608 files (0 skipped as non-modified), 22.9 MB
+0079.933 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0079.945 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0080.000 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0080.012 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0080.069 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0080.126 (0) Zip: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip.tmp: 600 files added (on-disk size: 0 KB)
+0082.053 (0) Creating zip file manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip.list-temp.tmp)
+0082.100 (0) Successfully created zip file manifest (size: 44936)
+0082.145 (0) Created others zip (0) - 5273 KB in 2.3 s (2301.5 KB/s) (sha1: a86557dc8305dcafbeff7668e3c70018d5a0b9e7, sha256: ba7bd69593dd344e3e3602dc56f9084d64c3553ad18c50e32cc95d1445d8c0a1)
+0082.194 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0082.198 (0) No remote despatch: user chose no remote backup service
+0082.243 (0) Recording as successfully uploaded: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip
+0082.293 (0) Deleting zip manifest (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip.list.tmp)
+0082.340 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0082.384 (0) Number of backup sets in history: 1; groups (db): 1
+0082.429 (0) Examining (for databases) backup set with group_id=0, nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0082.429 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0082.473 (0) Number of backup sets in history: 1; groups (files): 1
+0082.517 (0) Examining (for files) backup set with nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0082.517 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0082.520 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0082.573 (0) Saving backup status to database (elements: 9)
+0082.619 (0) Beginning creation of database dump (WordPress DB)
+0082.623 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0082.643 (0) Table wp_options: Total expected rows (approximate): 3324
+0082.791 (0) Table wp_options: Rows added in this batch (next record: 232592): 2975 (uncompressed bytes in this segment=6362911) in 0.16 seconds
+0082.840 (0) Table wp_options: finishing file(s) (2, 800.6 KB)
+0082.889 (0) Table wp_users: Total expected rows (via COUNT): 8
+0082.933 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0082.938 (0) Table wp_users: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=2586) in 0.05 seconds
+0082.943 (0) Table wp_users: finishing file(s) (2, 1.3 KB)
+0082.992 (0) Table wp_usermeta: Total expected rows (via COUNT): 535
+0083.037 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0083.088 (0) Table wp_usermeta: Rows added in this batch (next record: 728): 535 (uncompressed bytes in this segment=122321) in 0.10 seconds
+0083.137 (0) Table wp_usermeta: finishing file(s) (2, 23 KB)
+0083.186 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 710
+0083.238 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 20767): 710 (uncompressed bytes in this segment=337222) in 0.06 seconds
+0083.287 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 21.1 KB)
+0083.333 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 1
+0083.377 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0083.382 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: 98282): 1 (uncompressed bytes in this segment=708) in 0.05 seconds
+0083.388 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0083.434 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 12
+0083.478 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0083.522 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=969) in 0.09 seconds
+0083.570 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0083.617 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 2120
+0083.673 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 62271): 2120 (uncompressed bytes in this segment=200074) in 0.06 seconds
+0083.719 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 19.2 KB)
+0083.766 (0) Table wp_commentmeta: Total expected rows (via COUNT): 27
+0083.810 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0083.856 (0) Table wp_commentmeta: Rows added in this batch (next record: 64): 27 (uncompressed bytes in this segment=1548) in 0.09 seconds
+0083.862 (0) Table wp_commentmeta: finishing file(s) (2, 0.6 KB)
+0083.912 (0) Table wp_comments: Total expected rows (via COUNT): 248
+0083.958 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.007 (0) Table wp_comments: Rows added in this batch (next record: 257): 248 (uncompressed bytes in this segment=82714) in 0.10 seconds
+0084.055 (0) Table wp_comments: finishing file(s) (2, 8.2 KB)
+0084.102 (0) Table wp_links: Total expected rows (via COUNT): 0
+0084.151 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.05 seconds
+0084.200 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0084.746 (0) Table wp_postmeta: Total expected rows (approximate): 11196
+0085.481 (0) Table wp_postmeta: Rows added in this batch (next record: 31049): 16573 (uncompressed bytes in this segment=46618801) in 1.23 seconds
+0085.501 (0) Table wp_postmeta: finishing file(s) (2, 3197.9 KB)
+0085.784 (0) Table wp_posts: Total expected rows (approximate): 2942
+0086.105 (0) Table wp_posts: Rows added in this batch (next record: 8270): 2963 (uncompressed bytes in this segment=19640185) in 0.60 seconds
+0086.155 (0) Table wp_posts: finishing file(s) (2, 1795.5 KB)
+0086.160 (0) Table wp_term_relationships: Total expected rows (approximate): 388
+0086.165 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 388 (uncompressed bytes in this segment=7029) in 0.01 seconds
+0086.215 (0) Table wp_term_relationships: finishing file(s) (2, 1.4 KB)
+0086.265 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 109
+0086.310 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.317 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 123): 109 (uncompressed bytes in this segment=4847) in 0.06 seconds
+0086.326 (0) Table wp_term_taxonomy: finishing file(s) (2, 1.2 KB)
+0086.334 (0) Table wp_termmeta: Total expected rows (via COUNT): 145
+0086.378 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.389 (0) Table wp_termmeta: Rows added in this batch (next record: 266): 145 (uncompressed bytes in this segment=6095) in 0.06 seconds
+0086.402 (0) Table wp_termmeta: finishing file(s) (2, 1.5 KB)
+0086.412 (0) Table wp_terms: Total expected rows (via COUNT): 109
+0086.416 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.424 (0) Table wp_terms: Rows added in this batch (next record: 123): 109 (uncompressed bytes in this segment=4811) in 0.01 seconds
+0086.432 (0) Table wp_terms: finishing file(s) (2, 1.9 KB)
+0086.438 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 10
+0086.484 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 10 (uncompressed bytes in this segment=707) in 0.05 seconds
+0086.491 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0086.498 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 169
+0086.501 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.507 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 8219): 169 (uncompressed bytes in this segment=18198) in 0.01 seconds
+0086.514 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 2.3 KB)
+0086.520 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0086.524 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.00 seconds
+0086.530 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0086.537 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0086.539 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.543 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=750) in 0.01 seconds
+0086.549 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0086.557 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 1384
+0086.565 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: 6880): 1384 (uncompressed bytes in this segment=83624) in 0.01 seconds
+0086.572 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 12.4 KB)
+0086.580 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0086.584 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.01 seconds
+0086.593 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0086.601 (0) Table wp_aioseo_blc_cache: Total expected rows (via COUNT): 163
+0086.604 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.609 (0) Table wp_aioseo_blc_cache: Rows added in this batch (next record: 715): 163 (uncompressed bytes in this segment=19291) in 0.01 seconds
+0086.618 (0) Table wp_aioseo_blc_cache: finishing file(s) (2, 2.6 KB)
+0086.624 (0) Table wp_aioseo_blc_link_status: Total expected rows (via COUNT): 127
+0086.628 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.633 (0) Table wp_aioseo_blc_link_status: Rows added in this batch (next record: 195): 127 (uncompressed bytes in this segment=30044) in 0.01 seconds
+0086.683 (0) Table wp_aioseo_blc_link_status: finishing file(s) (2, 6.5 KB)
+0086.691 (0) Table wp_aioseo_blc_links: Total expected rows (via COUNT): 327
+0086.694 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.720 (0) Table wp_aioseo_blc_links: Rows added in this batch (next record: 1511): 327 (uncompressed bytes in this segment=360646) in 0.03 seconds
+0086.729 (0) Table wp_aioseo_blc_links: finishing file(s) (2, 40.6 KB)
+0086.737 (0) Table wp_aioseo_blc_notifications: Total expected rows (via COUNT): 0
+0086.742 (0) Table wp_aioseo_blc_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1373) in 0.01 seconds
+0086.750 (0) Table wp_aioseo_blc_notifications: finishing file(s) (2, 0.5 KB)
+0086.756 (0) Table wp_aioseo_blc_posts: Total expected rows (via COUNT): 162
+0086.759 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.765 (0) Table wp_aioseo_blc_posts: Rows added in this batch (next record: 162): 162 (uncompressed bytes in this segment=14017) in 0.01 seconds
+0086.772 (0) Table wp_aioseo_blc_posts: finishing file(s) (2, 2.2 KB)
+0086.780 (0) Table wp_aioseo_cache: Total expected rows (via COUNT): 2
+0086.783 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.788 (0) Table wp_aioseo_cache: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=13927) in 0.01 seconds
+0086.806 (0) Table wp_aioseo_cache: finishing file(s) (2, 5 KB)
+0086.831 (0) Table wp_aioseo_crawl_cleanup_blocked_args: Total expected rows (via COUNT): 0
+0086.843 (0) Table wp_aioseo_crawl_cleanup_blocked_args: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=947) in 0.02 seconds
+0086.849 (0) Table wp_aioseo_crawl_cleanup_blocked_args: finishing file(s) (2, 0.4 KB)
+0086.856 (0) Table wp_aioseo_crawl_cleanup_logs: Total expected rows (via COUNT): 0
+0086.903 (0) Table wp_aioseo_crawl_cleanup_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=770) in 0.05 seconds
+0086.913 (0) Table wp_aioseo_crawl_cleanup_logs: finishing file(s) (2, 0.4 KB)
+0086.924 (0) Table wp_aioseo_notifications: Total expected rows (via COUNT): 5
+0086.972 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.978 (0) Table wp_aioseo_notifications: Rows added in this batch (next record: 16): 5 (uncompressed bytes in this segment=14580) in 0.06 seconds
+0086.988 (0) Table wp_aioseo_notifications: finishing file(s) (2, 9.2 KB)
+0087.011 (0) Table wp_aioseo_posts: Total expected rows (approximate): 1540
+0087.060 (0) Table wp_aioseo_posts: Rows added in this batch (next record: 1632): 1597 (uncompressed bytes in this segment=1499590) in 0.07 seconds
+0087.073 (0) Table wp_aioseo_posts: finishing file(s) (2, 36.5 KB)
+0087.082 (0) Table wp_aioseo_writing_assistant_keywords: Total expected rows (via COUNT): 0
+0087.087 (0) Table wp_aioseo_writing_assistant_keywords: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1082) in 0.01 seconds
+0087.096 (0) Table wp_aioseo_writing_assistant_keywords: finishing file(s) (2, 0.5 KB)
+0087.108 (0) Table wp_aioseo_writing_assistant_posts: Total expected rows (via COUNT): 0
+0087.112 (0) Table wp_aioseo_writing_assistant_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=982) in 0.00 seconds
+0087.163 (0) Table wp_aioseo_writing_assistant_posts: finishing file(s) (2, 0.4 KB)
+0087.170 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0087.215 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=511) in 0.05 seconds
+0087.225 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0087.233 (0) Table wp_e_submissions: Total expected rows (via COUNT): 0
+0087.239 (0) Table wp_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1979) in 0.01 seconds
+0087.247 (0) Table wp_e_submissions: finishing file(s) (2, 0.7 KB)
+0087.254 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0087.258 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1140) in 0.01 seconds
+0087.267 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0087.277 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 0
+0087.280 (0) Table wp_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=673) in 0.01 seconds
+0087.288 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0087.295 (0) Table wp_eb_form_settings: Total expected rows (via COUNT): 0
+0087.298 (0) Table wp_eb_form_settings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=689) in 0.00 seconds
+0087.304 (0) Table wp_eb_form_settings: finishing file(s) (2, 0.4 KB)
+0087.310 (0) Table wp_icl_background_task: Total expected rows (via COUNT): 13
+0087.313 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.317 (0) Table wp_icl_background_task: Rows added in this batch (next record: 13): 13 (uncompressed bytes in this segment=2107) in 0.01 seconds
+0087.323 (0) Table wp_icl_background_task: finishing file(s) (2, 0.6 KB)
+0087.371 (0) Table wp_icl_content_status: Total expected rows (via COUNT): 0
+0087.376 (0) Table wp_icl_content_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=553) in 0.01 seconds
+0087.383 (0) Table wp_icl_content_status: finishing file(s) (2, 0.3 KB)
+0087.389 (0) Table wp_icl_core_status: Total expected rows (via COUNT): 0
+0087.433 (0) Table wp_icl_core_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.05 seconds
+0087.442 (0) Table wp_icl_core_status: finishing file(s) (2, 0.4 KB)
+0087.450 (0) Table wp_icl_flags: Total expected rows (via COUNT): 65
+0087.454 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.460 (0) Table wp_icl_flags: Rows added in this batch (next record: 65): 65 (uncompressed bytes in this segment=2318) in 0.01 seconds
+0087.469 (0) Table wp_icl_flags: finishing file(s) (2, 0.9 KB)
+0087.518 (0) Table wp_icl_languages: Total expected rows (via COUNT): 65
+0087.521 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.566 (0) Table wp_icl_languages: Rows added in this batch (next record: 65): 65 (uncompressed bytes in this segment=4405) in 0.05 seconds
+0087.575 (0) Table wp_icl_languages: finishing file(s) (2, 1.6 KB)
+0087.584 (0) Table wp_icl_languages_translations: Total expected rows (approximate): 4225
+0087.607 (0) Table wp_icl_languages_translations: Rows added in this batch (next record: 4225): 4225 (uncompressed bytes in this segment=147928) in 0.02 seconds
+0087.656 (0) Table wp_icl_languages_translations: finishing file(s) (2, 34.6 KB)
+0087.719 (0) Table wp_icl_locale_map: Total expected rows (approximate): 2
+0087.724 (0) Table wp_icl_locale_map: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=535) in 0.01 seconds
+0087.774 (0) Table wp_icl_locale_map: finishing file(s) (2, 0.4 KB)
+0087.781 (0) Table wp_icl_message_status: Total expected rows (via COUNT): 0
+0087.785 (0) Table wp_icl_message_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=846) in 0.00 seconds
+0087.833 (0) Table wp_icl_message_status: finishing file(s) (2, 0.4 KB)
+0087.881 (0) Table wp_icl_node: Total expected rows (via COUNT): 0
+0087.884 (0) Table wp_icl_node: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=457) in 0.00 seconds
+0087.895 (0) Table wp_icl_node: finishing file(s) (2, 0.3 KB)
+0087.902 (0) Table wp_icl_reminders: Total expected rows (via COUNT): 0
+0087.906 (0) Table wp_icl_reminders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=524) in 0.01 seconds
+0087.913 (0) Table wp_icl_reminders: finishing file(s) (2, 0.3 KB)
+0087.962 (0) Table wp_icl_string_positions: Total expected rows (via COUNT): 0
+0087.965 (0) Table wp_icl_string_positions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=620) in 0.00 seconds
+0087.972 (0) Table wp_icl_string_positions: finishing file(s) (2, 0.4 KB)
+0088.023 (0) Table wp_icl_string_status: Total expected rows (via COUNT): 0
+0088.026 (0) Table wp_icl_string_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=681) in 0.00 seconds
+0088.031 (0) Table wp_icl_string_status: finishing file(s) (2, 0.4 KB)
+0088.084 (0) Table wp_icl_string_translations: Total expected rows (via COUNT): 0
+0088.129 (0) Table wp_icl_string_translations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=976) in 0.05 seconds
+0088.180 (0) Table wp_icl_string_translations: finishing file(s) (2, 0.5 KB)
+0088.231 (0) Table wp_icl_strings: Total expected rows (via COUNT): 0
+0088.276 (0) Table wp_icl_strings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1282) in 0.05 seconds
+0088.286 (0) Table wp_icl_strings: finishing file(s) (2, 0.5 KB)
+0088.295 (0) Table wp_icl_translate: Total expected rows (via COUNT): 8
+0088.303 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.310 (0) Table wp_icl_translate: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1581) in 0.02 seconds
+0088.359 (0) Table wp_icl_translate: finishing file(s) (2, 0.6 KB)
+0088.407 (0) Table wp_icl_translate_job: Total expected rows (via COUNT): 2
+0088.451 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.455 (0) Table wp_icl_translate_job: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1354) in 0.05 seconds
+0088.462 (0) Table wp_icl_translate_job: finishing file(s) (2, 0.6 KB)
+0088.468 (0) Table wp_icl_translation_batches: Total expected rows (via COUNT): 1
+0088.472 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.476 (0) Table wp_icl_translation_batches: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=767) in 0.01 seconds
+0088.525 (0) Table wp_icl_translation_batches: finishing file(s) (2, 0.4 KB)
+0088.531 (0) Table wp_icl_translation_downloads: Total expected rows (via COUNT): 0
+0088.536 (0) Table wp_icl_translation_downloads: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=602) in 0.01 seconds
+0088.542 (0) Table wp_icl_translation_downloads: finishing file(s) (2, 0.4 KB)
+0088.592 (0) Table wp_icl_translation_status: Total expected rows (via COUNT): 385
+0088.595 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.604 (0) Table wp_icl_translation_status: Rows added in this batch (next record: 385): 385 (uncompressed bytes in this segment=40842) in 0.02 seconds
+0088.614 (0) Table wp_icl_translation_status: finishing file(s) (2, 3.4 KB)
+0088.620 (0) Table wp_icl_translations: Total expected rows (approximate): 1037
+0088.630 (0) Table wp_icl_translations: Rows added in this batch (next record: 1321): 1037 (uncompressed bytes in this segment=53675) in 0.01 seconds
+0088.680 (0) Table wp_icl_translations: finishing file(s) (2, 9.4 KB)
+0088.687 (0) Table wp_litespeed_url: Total expected rows (via COUNT): 0
+0088.731 (0) Table wp_litespeed_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=577) in 0.05 seconds
+0088.739 (0) Table wp_litespeed_url: finishing file(s) (2, 0.4 KB)
+0088.746 (0) Table wp_litespeed_url_file: Total expected rows (via COUNT): 0
+0088.789 (0) Table wp_litespeed_url_file: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1109) in 0.04 seconds
+0088.798 (0) Table wp_litespeed_url_file: finishing file(s) (2, 0.5 KB)
+0088.816 (0) Table wp_pmxi_files: Total expected rows (via COUNT): 0
+0088.820 (0) Table wp_pmxi_files: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=581) in 0.01 seconds
+0088.869 (0) Table wp_pmxi_files: finishing file(s) (2, 0.4 KB)
+0088.877 (0) Table wp_pmxi_geocoding: Total expected rows (via COUNT): 0
+0088.882 (0) Table wp_pmxi_geocoding: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.01 seconds
+0088.896 (0) Table wp_pmxi_geocoding: finishing file(s) (2, 0.4 KB)
+0088.906 (0) Table wp_pmxi_hash: Total expected rows (approximate): 0
+0088.910 (0) Table wp_pmxi_hash: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=522) in 0.00 seconds
+0088.922 (0) Table wp_pmxi_hash: finishing file(s) (2, 0.3 KB)
+0088.970 (0) Table wp_pmxi_history: Total expected rows (via COUNT): 0
+0088.973 (0) Table wp_pmxi_history: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=679) in 0.00 seconds
+0088.982 (0) Table wp_pmxi_history: finishing file(s) (2, 0.4 KB)
+0088.989 (0) Table wp_pmxi_images: Total expected rows (via COUNT): 44
+0089.034 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.041 (0) Table wp_pmxi_images: Rows added in this batch (next record: 71): 44 (uncompressed bytes in this segment=2286) in 0.05 seconds
+0089.091 (0) Table wp_pmxi_images: finishing file(s) (2, 0.8 KB)
+0089.099 (0) Table wp_pmxi_imports: Total expected rows (via COUNT): 0
+0089.105 (0) Table wp_pmxi_imports: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1829) in 0.01 seconds
+0089.113 (0) Table wp_pmxi_imports: finishing file(s) (2, 0.6 KB)
+0089.160 (0) Table wp_pmxi_posts: Total expected rows (via COUNT): 0
+0089.163 (0) Table wp_pmxi_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=659) in 0.00 seconds
+0089.172 (0) Table wp_pmxi_posts: finishing file(s) (2, 0.4 KB)
+0089.186 (0) Table wp_pmxi_templates: Total expected rows (via COUNT): 0
+0089.192 (0) Table wp_pmxi_templates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=812) in 0.01 seconds
+0089.203 (0) Table wp_pmxi_templates: finishing file(s) (2, 0.4 KB)
+0089.211 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 128
+0089.255 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.303 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 26678): 128 (uncompressed bytes in this segment=25491) in 0.09 seconds
+0089.353 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 4.5 KB)
+0089.404 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 99
+0089.407 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.414 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 101): 99 (uncompressed bytes in this segment=47969) in 0.01 seconds
+0089.422 (0) Table wp_wc_admin_notes: finishing file(s) (2, 11.6 KB)
+0089.429 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 70
+0089.432 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.478 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: 81): 70 (uncompressed bytes in this segment=10958) in 0.05 seconds
+0089.487 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 3.2 KB)
+0089.494 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0089.540 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.05 seconds
+0089.588 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0089.594 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 138
+0089.639 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.646 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: 216): 138 (uncompressed bytes in this segment=20655) in 0.05 seconds
+0089.652 (0) Table wp_wc_order_addresses: finishing file(s) (2, 4 KB)
+0089.701 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0089.748 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=715) in 0.05 seconds
+0089.797 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0089.847 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 71
+0089.891 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.939 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: 1997): 71 (uncompressed bytes in this segment=16474) in 0.09 seconds
+0089.945 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 4.1 KB)
+0089.951 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 92
+0089.996 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0090.001 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: 824): 92 (uncompressed bytes in this segment=9535) in 0.05 seconds
+0090.050 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 2.3 KB)
+0090.097 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 71
+0090.141 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0090.186 (0) Table wp_wc_order_stats: Rows added in this batch (next record: 8265): 71 (uncompressed bytes in this segment=11859) in 0.09 seconds
+0090.235 (0) Table wp_wc_order_stats: finishing file(s) (2, 2.6 KB)
+0090.240 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0090.285 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=793) in 0.05 seconds
+0090.290 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0090.337 (0) Table wp_wc_orders: Total expected rows (via COUNT): 71
+0090.381 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0090.431 (0) Table wp_wc_orders: Rows added in this batch (next record: 8265): 71 (uncompressed bytes in this segment=30678) in 0.09 seconds
+0090.490 (0) Table wp_wc_orders: finishing file(s) (2, 6.4 KB)
+0090.537 (0) Table wp_wc_orders_meta: Total expected rows (approximate): 2301
+0090.606 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: 3464): 2330 (uncompressed bytes in this segment=608310) in 0.07 seconds
+0090.655 (0) Table wp_wc_orders_meta: finishing file(s) (2, 63.4 KB)
+0090.714 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0090.764 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=919) in 0.05 seconds
+0090.812 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0090.817 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0090.863 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0090.868 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=900) in 0.05 seconds
+0090.916 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0090.922 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0090.926 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=667) in 0.01 seconds
+0090.932 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0090.937 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0090.981 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.04 seconds
+0090.988 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0090.998 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0091.002 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=873) in 0.01 seconds
+0091.068 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0091.075 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 5
+0091.078 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0091.124 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1186) in 0.05 seconds
+0091.172 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.5 KB)
+0091.221 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0091.227 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1410) in 0.01 seconds
+0091.234 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0091.285 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0091.288 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.01 seconds
+0091.298 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0091.305 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 161
+0091.308 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0091.314 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: 843): 161 (uncompressed bytes in this segment=13859) in 0.01 seconds
+0091.320 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 2.2 KB)
+0091.368 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0091.375 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.01 seconds
+0091.422 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0091.476 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1177
+0091.552 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 114556): 1177 (uncompressed bytes in this segment=3922222) in 0.08 seconds
+0091.602 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 136.7 KB)
+0091.648 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 2
+0091.653 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0091.700 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=935) in 0.05 seconds
+0091.747 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0091.754 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 2
+0091.798 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0091.803 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=879) in 0.05 seconds
+0091.811 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0091.860 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 1
+0091.904 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0091.949 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=691) in 0.09 seconds
+0091.955 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0092.002 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0092.050 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=786) in 0.05 seconds
+0092.101 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0092.151 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0092.154 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1142) in 0.00 seconds
+0092.203 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0092.253 (0) Table wp_wpforms_entries: Total expected rows (via COUNT): 3
+0092.298 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.304 (0) Table wp_wpforms_entries: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=23591) in 0.05 seconds
+0092.354 (0) Table wp_wpforms_entries: finishing file(s) (2, 4 KB)
+0092.361 (0) Table wp_wpforms_entry_fields: Total expected rows (via COUNT): 18
+0092.405 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.409 (0) Table wp_wpforms_entry_fields: Rows added in this batch (next record: 18): 18 (uncompressed bytes in this segment=7681) in 0.05 seconds
+0092.416 (0) Table wp_wpforms_entry_fields: finishing file(s) (2, 2.9 KB)
+0092.465 (0) Table wp_wpforms_entry_meta: Total expected rows (via COUNT): 14
+0092.509 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.513 (0) Table wp_wpforms_entry_meta: Rows added in this batch (next record: 14): 14 (uncompressed bytes in this segment=2180) in 0.05 seconds
+0092.563 (0) Table wp_wpforms_entry_meta: finishing file(s) (2, 0.8 KB)
+0092.570 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 2
+0092.614 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.617 (0) Table wp_wpforms_logs: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=943) in 0.05 seconds
+0092.666 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.5 KB)
+0092.718 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0092.724 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=690) in 0.01 seconds
+0092.733 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0092.781 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0092.830 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1650) in 0.05 seconds
+0092.838 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0092.847 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 23
+0092.890 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.896 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 198): 23 (uncompressed bytes in this segment=2446) in 0.05 seconds
+0092.905 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.7 KB)
+0092.916 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 229
+0092.961 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.976 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 287): 229 (uncompressed bytes in this segment=153669) in 0.06 seconds
+0092.985 (0) Table wp_yoast_indexable: finishing file(s) (2, 24.2 KB)
+0093.034 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 226
+0093.040 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 226 (uncompressed bytes in this segment=4566) in 0.01 seconds
+0093.048 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.9 KB)
+0093.054 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 26
+0093.099 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0093.105 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1243) in 0.05 seconds
+0093.114 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0093.122 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 13
+0093.126 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0093.133 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: 13): 13 (uncompressed bytes in this segment=1948) in 0.01 seconds
+0093.143 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.8 KB)
+0093.150 (0) Table wp_yoast_prominent_words: Total expected rows (approximate): 1324
+0093.163 (0) Table wp_yoast_prominent_words: Rows added in this batch (next record: 1324): 1324 (uncompressed bytes in this segment=42678) in 0.01 seconds
+0093.212 (0) Table wp_yoast_prominent_words: finishing file(s) (2, 10.2 KB)
+0093.219 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 696
+0093.227 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 907): 696 (uncompressed bytes in this segment=92895) in 0.01 seconds
+0093.235 (0) Table wp_yoast_seo_links: finishing file(s) (2, 10.5 KB)
+0093.280 (0) PHP event: code E_WARNING: filemtime(): stat failed for /home/u228945434/domains/fedefee.com/public_html/wp-content/updraft/backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db.gz (line 1923, wp-content/plugins/updraftplus/backup.php)
+0093.285 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_options.table.tmpr232593.gz (1/110/fopen): adding to final database dump
+0093.298 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_options.table.gz (2/110/fopen): adding to final database dump
+0093.343 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_users.table.tmpr9.gz (3/110/fopen): adding to final database dump
+0093.347 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_users.table.gz (4/110/fopen): adding to final database dump
+0093.350 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_usermeta.table.tmpr729.gz (5/110/fopen): adding to final database dump
+0093.394 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_usermeta.table.gz (6/110/fopen): adding to final database dump
+0093.398 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_actionscheduler_actions.table.tmpr20768.gz (7/110/fopen): adding to final database dump
+0093.403 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_actionscheduler_actions.table.gz (8/110/fopen): adding to final database dump
+0093.406 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_actionscheduler_claims.table.tmpr98283.gz (9/110/fopen): adding to final database dump
+0093.409 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_actionscheduler_claims.table.gz (10/110/fopen): adding to final database dump
+0093.454 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_actionscheduler_groups.table.tmpr13.gz (11/110/fopen): adding to final database dump
+0093.458 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_actionscheduler_groups.table.gz (12/110/fopen): adding to final database dump
+0093.462 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_actionscheduler_logs.table.tmpr62272.gz (13/110/fopen): adding to final database dump
+0093.466 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_actionscheduler_logs.table.gz (14/110/fopen): adding to final database dump
+0093.510 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_commentmeta.table.tmpr65.gz (15/110/fopen): adding to final database dump
+0093.555 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_commentmeta.table.gz (16/110/fopen): adding to final database dump
+0093.600 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_comments.table.tmpr258.gz (17/110/fopen): adding to final database dump
+0093.645 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_comments.table.gz (18/110/fopen): adding to final database dump
+0093.649 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_links.table.tmpr0.gz (19/110/fopen): adding to final database dump
+0093.692 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_links.table.gz (20/110/fopen): adding to final database dump
+0093.737 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_postmeta.table.tmpr31050.gz (21/110/fopen): adding to final database dump
+0093.780 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_postmeta.table.gz (22/110/fopen): adding to final database dump
+0093.826 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_posts.table.tmpr8271.gz (23/110/fopen): adding to final database dump
+0093.896 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_posts.table.gz (24/110/fopen): adding to final database dump
+0093.904 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_term_relationships.table.tmpr100001.gz (25/110/fopen): adding to final database dump
+0093.949 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_term_relationships.table.gz (26/110/fopen): adding to final database dump
+0093.994 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_term_taxonomy.table.tmpr124.gz (27/110/fopen): adding to final database dump
+0093.998 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_term_taxonomy.table.gz (28/110/fopen): adding to final database dump
+0094.000 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_termmeta.table.tmpr267.gz (29/110/fopen): adding to final database dump
+0094.003 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_termmeta.table.gz (30/110/fopen): adding to final database dump
+0094.005 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_terms.table.tmpr124.gz (31/110/fopen): adding to final database dump
+0094.050 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_terms.table.gz (32/110/fopen): adding to final database dump
+0094.053 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/110/fopen): adding to final database dump
+0094.097 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_category_lookup.table.gz (34/110/fopen): adding to final database dump
+0094.100 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_product_meta_lookup.table.tmpr8220.gz (35/110/fopen): adding to final database dump
+0094.146 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_product_meta_lookup.table.gz (36/110/fopen): adding to final database dump
+0094.149 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/110/fopen): adding to final database dump
+0094.153 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_reserved_stock.table.gz (38/110/fopen): adding to final database dump
+0094.197 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/110/fopen): adding to final database dump
+0094.201 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_tax_rate_classes.table.gz (40/110/fopen): adding to final database dump
+0094.245 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_order_itemmeta.table.tmpr6881.gz (41/110/fopen): adding to final database dump
+0094.290 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_order_itemmeta.table.gz (42/110/fopen): adding to final database dump
+0094.294 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/110/fopen): adding to final database dump
+0094.299 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/110/fopen): adding to final database dump
+0094.303 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_cache.table.tmpr716.gz (45/110/fopen): adding to final database dump
+0094.348 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_cache.table.gz (46/110/fopen): adding to final database dump
+0094.393 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_link_status.table.tmpr196.gz (47/110/fopen): adding to final database dump
+0094.437 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_link_status.table.gz (48/110/fopen): adding to final database dump
+0094.440 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_links.table.tmpr1512.gz (49/110/fopen): adding to final database dump
+0094.483 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_links.table.gz (50/110/fopen): adding to final database dump
+0094.487 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_notifications.table.tmpr0.gz (51/110/fopen): adding to final database dump
+0094.492 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_notifications.table.gz (52/110/fopen): adding to final database dump
+0094.537 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_posts.table.tmpr163.gz (53/110/fopen): adding to final database dump
+0094.540 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_blc_posts.table.gz (54/110/fopen): adding to final database dump
+0094.584 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_cache.table.tmpr3.gz (55/110/fopen): adding to final database dump
+0094.588 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_cache.table.gz (56/110/fopen): adding to final database dump
+0094.592 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_crawl_cleanup_blocked_args.table.tmpr0.gz (57/110/fopen): adding to final database dump
+0094.597 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_crawl_cleanup_blocked_args.table.gz (58/110/fopen): adding to final database dump
+0094.642 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_crawl_cleanup_logs.table.tmpr0.gz (59/110/fopen): adding to final database dump
+0094.687 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_crawl_cleanup_logs.table.gz (60/110/fopen): adding to final database dump
+0094.691 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_notifications.table.tmpr17.gz (61/110/fopen): adding to final database dump
+0094.736 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_notifications.table.gz (62/110/fopen): adding to final database dump
+0094.740 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_posts.table.tmpr1633.gz (63/110/fopen): adding to final database dump
+0094.744 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_posts.table.gz (64/110/fopen): adding to final database dump
+0094.749 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_writing_assistant_keywords.table.tmpr0.gz (65/110/fopen): adding to final database dump
+0094.752 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_writing_assistant_keywords.table.gz (66/110/fopen): adding to final database dump
+0094.757 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_writing_assistant_posts.table.tmpr0.gz (67/110/fopen): adding to final database dump
+0094.761 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_aioseo_writing_assistant_posts.table.gz (68/110/fopen): adding to final database dump
+0094.765 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_e_events.table.tmpr0.gz (69/110/fopen): adding to final database dump
+0094.810 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_e_events.table.gz (70/110/fopen): adding to final database dump
+0094.814 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_e_submissions.table.tmpr0.gz (71/110/fopen): adding to final database dump
+0094.818 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_e_submissions.table.gz (72/110/fopen): adding to final database dump
+0094.822 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_e_submissions_actions_log.table.tmpr0.gz (73/110/fopen): adding to final database dump
+0094.867 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_e_submissions_actions_log.table.gz (74/110/fopen): adding to final database dump
+0094.871 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_e_submissions_values.table.tmpr0.gz (75/110/fopen): adding to final database dump
+0094.874 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_e_submissions_values.table.gz (76/110/fopen): adding to final database dump
+0094.919 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_eb_form_settings.table.tmpr0.gz (77/110/fopen): adding to final database dump
+0094.922 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_eb_form_settings.table.gz (78/110/fopen): adding to final database dump
+0094.965 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_background_task.table.tmpr14.gz (79/110/fopen): adding to final database dump
+0094.968 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_background_task.table.gz (80/110/fopen): adding to final database dump
+0095.012 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_content_status.table.tmpr0.gz (81/110/fopen): adding to final database dump
+0095.015 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_content_status.table.gz (82/110/fopen): adding to final database dump
+0095.059 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_core_status.table.tmpr0.gz (83/110/fopen): adding to final database dump
+0095.103 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_core_status.table.gz (84/110/fopen): adding to final database dump
+0095.107 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_flags.table.tmpr66.gz (85/110/fopen): adding to final database dump
+0095.111 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_flags.table.gz (86/110/fopen): adding to final database dump
+0095.155 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_languages.table.tmpr66.gz (87/110/fopen): adding to final database dump
+0095.158 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_languages.table.gz (88/110/fopen): adding to final database dump
+0095.203 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_languages_translations.table.tmpr4226.gz (89/110/fopen): adding to final database dump
+0095.207 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_languages_translations.table.gz (90/110/fopen): adding to final database dump
+0095.210 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_locale_map.table.tmpr1001.gz (91/110/fopen): adding to final database dump
+0095.212 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_locale_map.table.gz (92/110/fopen): adding to final database dump
+0095.216 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_message_status.table.tmpr0.gz (93/110/fopen): adding to final database dump
+0095.219 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_message_status.table.gz (94/110/fopen): adding to final database dump
+0095.222 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_node.table.tmpr0.gz (95/110/fopen): adding to final database dump
+0095.225 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_node.table.gz (96/110/fopen): adding to final database dump
+0095.228 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_reminders.table.tmpr0.gz (97/110/fopen): adding to final database dump
+0095.272 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_reminders.table.gz (98/110/fopen): adding to final database dump
+0095.276 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_string_positions.table.tmpr0.gz (99/110/fopen): adding to final database dump
+0095.322 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_string_positions.table.gz (100/110/fopen): adding to final database dump
+0095.324 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_string_status.table.tmpr0.gz (101/110/fopen): adding to final database dump
+0095.369 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_string_status.table.gz (102/110/fopen): adding to final database dump
+0095.373 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_string_translations.table.tmpr0.gz (103/110/fopen): adding to final database dump
+0095.376 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_string_translations.table.gz (104/110/fopen): adding to final database dump
+0095.380 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_strings.table.tmpr0.gz (105/110/fopen): adding to final database dump
+0095.383 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_strings.table.gz (106/110/fopen): adding to final database dump
+0095.387 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translate.table.tmpr9.gz (107/110/fopen): adding to final database dump
+0095.390 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translate.table.gz (108/110/fopen): adding to final database dump
+0095.393 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translate_job.table.tmpr3.gz (109/110/fopen): adding to final database dump
+0095.396 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translate_job.table.gz (110/110/fopen): adding to final database dump
+0095.400 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translation_batches.table.tmpr2.gz (111/110/fopen): adding to final database dump
+0095.402 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translation_batches.table.gz (112/110/fopen): adding to final database dump
+0095.405 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translation_downloads.table.tmpr0.gz (113/110/fopen): adding to final database dump
+0095.409 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translation_downloads.table.gz (114/110/fopen): adding to final database dump
+0095.453 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translation_status.table.tmpr386.gz (115/110/fopen): adding to final database dump
+0095.456 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translation_status.table.gz (116/110/fopen): adding to final database dump
+0095.459 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translations.table.tmpr1322.gz (117/110/fopen): adding to final database dump
+0095.503 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_icl_translations.table.gz (118/110/fopen): adding to final database dump
+0095.506 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_litespeed_url.table.tmpr0.gz (119/110/fopen): adding to final database dump
+0095.509 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_litespeed_url.table.gz (120/110/fopen): adding to final database dump
+0095.511 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_litespeed_url_file.table.tmpr0.gz (121/110/fopen): adding to final database dump
+0095.555 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_litespeed_url_file.table.gz (122/110/fopen): adding to final database dump
+0095.600 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_files.table.tmpr0.gz (123/110/fopen): adding to final database dump
+0095.604 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_files.table.gz (124/110/fopen): adding to final database dump
+0095.607 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_geocoding.table.tmpr0.gz (125/110/fopen): adding to final database dump
+0095.611 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_geocoding.table.gz (126/110/fopen): adding to final database dump
+0095.615 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_hash.table.tmpr1.gz (127/110/fopen): adding to final database dump
+0095.659 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_hash.table.gz (128/110/fopen): adding to final database dump
+0095.662 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_history.table.tmpr0.gz (129/110/fopen): adding to final database dump
+0095.666 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_history.table.gz (130/110/fopen): adding to final database dump
+0095.669 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_images.table.tmpr72.gz (131/110/fopen): adding to final database dump
+0095.678 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_images.table.gz (132/110/fopen): adding to final database dump
+0095.681 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_imports.table.tmpr0.gz (133/110/fopen): adding to final database dump
+0095.685 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_imports.table.gz (134/110/fopen): adding to final database dump
+0095.688 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_posts.table.tmpr0.gz (135/110/fopen): adding to final database dump
+0095.693 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_posts.table.gz (136/110/fopen): adding to final database dump
+0095.696 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_templates.table.tmpr0.gz (137/110/fopen): adding to final database dump
+0095.699 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_pmxi_templates.table.gz (138/110/fopen): adding to final database dump
+0095.703 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_admin_note_actions.table.tmpr26679.gz (139/110/fopen): adding to final database dump
+0095.748 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_admin_note_actions.table.gz (140/110/fopen): adding to final database dump
+0095.792 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_admin_notes.table.tmpr102.gz (141/110/fopen): adding to final database dump
+0095.796 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_admin_notes.table.gz (142/110/fopen): adding to final database dump
+0095.800 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_customer_lookup.table.tmpr82.gz (143/110/fopen): adding to final database dump
+0095.844 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_customer_lookup.table.gz (144/110/fopen): adding to final database dump
+0095.848 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_download_log.table.tmpr0.gz (145/110/fopen): adding to final database dump
+0095.850 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_download_log.table.gz (146/110/fopen): adding to final database dump
+0095.893 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_addresses.table.tmpr217.gz (147/110/fopen): adding to final database dump
+0095.897 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_addresses.table.gz (148/110/fopen): adding to final database dump
+0095.901 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (149/110/fopen): adding to final database dump
+0095.949 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_coupon_lookup.table.gz (150/110/fopen): adding to final database dump
+0095.952 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_operational_data.table.tmpr1998.gz (151/110/fopen): adding to final database dump
+0095.998 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_operational_data.table.gz (152/110/fopen): adding to final database dump
+0096.003 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_product_lookup.table.tmpr825.gz (153/110/fopen): adding to final database dump
+0096.007 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_product_lookup.table.gz (154/110/fopen): adding to final database dump
+0096.011 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_stats.table.tmpr8266.gz (155/110/fopen): adding to final database dump
+0096.015 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_stats.table.gz (156/110/fopen): adding to final database dump
+0096.018 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (157/110/fopen): adding to final database dump
+0096.022 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_order_tax_lookup.table.gz (158/110/fopen): adding to final database dump
+0096.026 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_orders.table.tmpr8266.gz (159/110/fopen): adding to final database dump
+0096.030 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_orders.table.gz (160/110/fopen): adding to final database dump
+0096.033 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_orders_meta.table.tmpr3465.gz (161/110/fopen): adding to final database dump
+0096.036 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_orders_meta.table.gz (162/110/fopen): adding to final database dump
+0096.039 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_product_attributes_lookup.table.tmpr1001.gz (163/110/fopen): adding to final database dump
+0096.085 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_product_attributes_lookup.table.gz (164/110/fopen): adding to final database dump
+0096.090 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_product_download_directories.table.tmpr3.gz (165/110/fopen): adding to final database dump
+0096.104 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_product_download_directories.table.gz (166/110/fopen): adding to final database dump
+0096.149 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_rate_limits.table.tmpr0.gz (167/110/fopen): adding to final database dump
+0096.153 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_rate_limits.table.gz (168/110/fopen): adding to final database dump
+0096.198 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_webhooks.table.tmpr0.gz (169/110/fopen): adding to final database dump
+0096.224 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wc_webhooks.table.gz (170/110/fopen): adding to final database dump
+0096.229 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (171/110/fopen): adding to final database dump
+0096.233 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_api_keys.table.gz (172/110/fopen): adding to final database dump
+0096.277 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr6.gz (173/110/fopen): adding to final database dump
+0096.322 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_attribute_taxonomies.table.gz (174/110/fopen): adding to final database dump
+0096.326 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (175/110/fopen): adding to final database dump
+0096.330 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (176/110/fopen): adding to final database dump
+0096.333 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_log.table.tmpr0.gz (177/110/fopen): adding to final database dump
+0096.337 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_log.table.gz (178/110/fopen): adding to final database dump
+0096.340 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_order_items.table.tmpr844.gz (179/110/fopen): adding to final database dump
+0096.343 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_order_items.table.gz (180/110/fopen): adding to final database dump
+0096.346 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (181/110/fopen): adding to final database dump
+0096.349 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_payment_tokens.table.gz (182/110/fopen): adding to final database dump
+0096.352 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_sessions.table.tmpr114557.gz (183/110/fopen): adding to final database dump
+0096.358 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_sessions.table.gz (184/110/fopen): adding to final database dump
+0096.362 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr3.gz (185/110/fopen): adding to final database dump
+0096.365 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_shipping_zone_locations.table.gz (186/110/fopen): adding to final database dump
+0096.368 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr4.gz (187/110/fopen): adding to final database dump
+0096.371 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_shipping_zone_methods.table.gz (188/110/fopen): adding to final database dump
+0096.374 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_shipping_zones.table.tmpr3.gz (189/110/fopen): adding to final database dump
+0096.377 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_shipping_zones.table.gz (190/110/fopen): adding to final database dump
+0096.379 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (191/110/fopen): adding to final database dump
+0096.382 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_tax_rate_locations.table.gz (192/110/fopen): adding to final database dump
+0096.384 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (193/110/fopen): adding to final database dump
+0096.387 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_woocommerce_tax_rates.table.gz (194/110/fopen): adding to final database dump
+0096.390 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_entries.table.tmpr4.gz (195/110/fopen): adding to final database dump
+0096.393 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_entries.table.gz (196/110/fopen): adding to final database dump
+0096.396 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_entry_fields.table.tmpr19.gz (197/110/fopen): adding to final database dump
+0096.401 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_entry_fields.table.gz (198/110/fopen): adding to final database dump
+0096.404 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_entry_meta.table.tmpr15.gz (199/110/fopen): adding to final database dump
+0096.409 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_entry_meta.table.gz (200/110/fopen): adding to final database dump
+0096.412 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_logs.table.tmpr3.gz (201/110/fopen): adding to final database dump
+0096.415 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_logs.table.gz (202/110/fopen): adding to final database dump
+0096.418 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (203/110/fopen): adding to final database dump
+0096.421 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_payment_meta.table.gz (204/110/fopen): adding to final database dump
+0096.425 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_payments.table.tmpr0.gz (205/110/fopen): adding to final database dump
+0096.429 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_payments.table.gz (206/110/fopen): adding to final database dump
+0096.433 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_tasks_meta.table.tmpr199.gz (207/110/fopen): adding to final database dump
+0096.478 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_wpforms_tasks_meta.table.gz (208/110/fopen): adding to final database dump
+0096.522 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_indexable.table.tmpr288.gz (209/110/fopen): adding to final database dump
+0096.567 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_indexable.table.gz (210/110/fopen): adding to final database dump
+0096.571 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (211/110/fopen): adding to final database dump
+0096.577 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_indexable_hierarchy.table.gz (212/110/fopen): adding to final database dump
+0096.621 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_migrations.table.tmpr27.gz (213/110/fopen): adding to final database dump
+0096.625 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_migrations.table.gz (214/110/fopen): adding to final database dump
+0096.630 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_primary_term.table.tmpr14.gz (215/110/fopen): adding to final database dump
+0096.635 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_primary_term.table.gz (216/110/fopen): adding to final database dump
+0096.639 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_prominent_words.table.tmpr1325.gz (217/110/fopen): adding to final database dump
+0096.643 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_prominent_words.table.gz (218/110/fopen): adding to final database dump
+0096.689 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_seo_links.table.tmpr908.gz (219/110/fopen): adding to final database dump
+0096.693 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db-table-wp_yoast_seo_links.table.gz (220/110/fopen): adding to final database dump
+0096.701 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db.gz: finished writing out complete database file (6363.4 KB)
+0096.843 (0) Total database tables backed up: 110 (backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db.gz, size: 6516238, sha1: d2c67c96537255c6c4127b2d81173ae8acc025a8, sha256: 0ec2617265b81b726d6f5d9c6e396856968ab81ed699a5fc2e32ab630d4c34b3)
+0096.854 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-plugins.zip: plugins: This file has already been successfully processed
+0096.898 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-themes.zip: themes: This file has already been successfully processed
+0096.904 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads.zip: uploads: This file has already been successfully processed
+0096.948 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-uploads2.zip: uploads: This file has already been successfully processed
+0096.951 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-others.zip: others: This file has already been successfully processed
+0096.954 (0) backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db.gz: db: This file has not yet been successfully uploaded: will queue
+0096.957 (0) Saving backup history. Total backup size: 713.7 MB
+0096.961 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0097.008 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0097.052 (0) No remote despatch: user chose no remote backup service
+0097.098 (0) Recording as successfully uploaded: backup_2025-09-14-1500_Fedefeecom_b531581d4af5-db.gz
+0097.106 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0097.111 (0) Number of backup sets in history: 2; groups (db): 1
+0097.115 (0) Examining (for databases) backup set with group_id=0, nonce=b531581d4af5, datestamp=1757851225 (Sep 14 2025 12:00:25)
+0097.118 (0) This backup set is the backup set just made, so will not be deleted.
+0097.118 (0) Examining (for databases) backup set with group_id=0, nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0097.119 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0097.122 (0) Number of backup sets in history: 2; groups (files): 1
+0097.126 (0) Examining (for files) backup set with nonce=b531581d4af5, datestamp=1757851225 (Sep 14 2025 12:00:25)
+0097.126 (0) This backup set is the backup set just made, so will not be deleted.
+0097.129 (0) This backup set is the backup set just made, so will not be deleted.
+0097.129 (0) This backup set is the backup set just made, so will not be deleted.
+0097.129 (0) This backup set is the backup set just made, so will not be deleted.
+0097.129 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0097.132 (0) Examining (for files) backup set with nonce=c8f33807c83f, datestamp=1750956334 (Jun 26 2025 16:45:34)
+0097.132 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0097.132 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0097.136 (0) Resume backup (b531581d4af5, 0): finish run
+0097.142 (0) Decremented the semaphore (fd) by 1
+0097.145 (0) Semaphore (fd) unlocked
+0097.148 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0097.152 (0) No email will/can be sent - the user has not configured an email address.
+0097.155 (0) The backup succeeded and is now complete

@@ -1,0 +1,130 @@
+@font-face {
+	font-family: "icons"; 
+src: url("icons/icons.eot?v=1736187994");
+src:url("icons/icons.eot?v=1736187994#iefix") format("embedded-opentype"),
+url("icons/icons.woff?v=1736187994") format("woff2"),
+url("icons/icons.woff?v=1736187994") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+i[class^="fi-bd21"], [class*=" fi-bd21"] {
+	display: inline-block;
+	
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+	font-family: "icons";
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 1;
+	speak: none;
+}
+
+
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-discount:before {
+    content: "\f101";
+}
+.icon-email:before {
+    content: "\f102";
+}
+.icon-hamburger:before {
+    content: "\f103";
+}
+.icon-map-pin:before {
+    content: "\f104";
+}
+.icon-moneyback:before {
+    content: "\f105";
+}
+.icon-phone:before {
+    content: "\f106";
+}
+.icon-quality:before {
+    content: "\f107";
+}
+.icon-romb:before {
+    content: "\f108";
+}
+.icon-shipping-2:before {
+    content: "\f109";
+}
+.icon-shipping:before {
+    content: "\f10a";
+}
+.icon-support:before {
+    content: "\f10b";
+}
+.icon-time:before {
+    content: "\f10c";
+}
+.icon-world:before {
+    content: "\f10d";
+}
+
+.fi-bd21-discount:before {
+content: "\F101";
+}
+
+.fi-bd21-email:before {
+content: "\F102";
+}
+
+.fi-bd21-hamburger:before {
+content: "\F103";
+}
+
+.fi-bd21-map-pin:before {
+content: "\F104";
+}
+
+.fi-bd21-moneyback:before {
+content: "\F105";
+}
+
+.fi-bd21-phone:before {
+content: "\F106";
+}
+
+.fi-bd21-quality:before {
+content: "\F107";
+}
+
+.fi-bd21-romb:before {
+content: "\F108";
+}
+
+.fi-bd21-shipping-2:before {
+content: "\F109";
+}
+
+.fi-bd21-shipping:before {
+content: "\F10A";
+}
+
+.fi-bd21-support:before {
+content: "\F10B";
+}
+
+.fi-bd21-time:before {
+content: "\F10C";
+}
+
+.fi-bd21-world:before {
+content: "\F10D";
+}

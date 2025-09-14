@@ -1,0 +1,435 @@
+2025-03-12T12:54:34+00:00 DEBUG Getting Data for fedefeproductfeed.xml feed.
+
+2025-03-12T12:54:34+00:00 DEBUG Generating Feed VIA Ajax...
+
+2025-03-12T12:54:34+00:00 INFO Feed Config::
+Array
+(
+    [provider] => facebook
+    [feed_country] => BG
+    [filename] => FeDeFe Product Feed
+    [feedType] => xml
+    [ftpenabled] => false
+    [ftporsftp] => ftp
+    [ftphost] => 
+    [ftpport] => 21
+    [ftpuser] => 
+    [ftppassword] => 
+    [ftppath] => 
+    [ftpmode] => active
+    [is_variations] => y
+    [variable_price] => first
+    [variable_quantity] => first
+    [feedLanguage] => 
+    [feedCurrency] => BGN
+    [itemsWrapper] => products
+    [itemWrapper] => product
+    [delimiter] => ,
+    [enclosure] => double
+    [extraHeader] => 
+    [vendors] => Array
+        (
+        )
+
+    [mattributes] => Array
+        (
+            [0] => id
+            [1] => title
+            [2] => description
+            [3] => item_group_id
+            [4] => link
+            [5] => product_type
+            [6] => fb_product_category
+            [7] => image
+            [8] => condition
+            [9] => availability
+            [10] => price
+            [11] => sale_price
+            [12] => brand
+            [13] => images_1
+            [14] => images_2
+            [15] => images_3
+            [16] => images_4
+            [17] => images_5
+        )
+
+    [prefix] => Array
+        (
+            [0] => 
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => 
+            [9] => 
+            [10] => 
+            [11] => 
+            [12] => 
+            [13] => 
+            [14] => 
+            [15] => 
+            [16] => 
+            [17] => 
+        )
+
+    [type] => Array
+        (
+            [0] => attribute
+            [1] => attribute
+            [2] => attribute
+            [3] => attribute
+            [4] => attribute
+            [5] => attribute
+            [6] => pattern
+            [7] => attribute
+            [8] => pattern
+            [9] => attribute
+            [10] => attribute
+            [11] => attribute
+            [12] => pattern
+            [13] => attribute
+            [14] => attribute
+            [15] => attribute
+            [16] => attribute
+            [17] => attribute
+        )
+
+    [attributes] => Array
+        (
+            [0] => id
+            [1] => title
+            [2] => description
+            [3] => item_group_id
+            [4] => link
+            [5] => product_type
+            [6] => 
+            [7] => image
+            [8] => 
+            [9] => availability
+            [10] => price
+            [11] => current_price
+            [12] => 
+            [13] => image_1
+            [14] => image_2
+            [15] => image_3
+            [16] => image_4
+            [17] => image_5
+        )
+
+    [default] => Array
+        (
+            [0] => 
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => new
+            [9] => 
+            [10] => 
+            [11] => 
+            [12] => Fedefee
+            [13] => 
+            [14] => 
+            [15] => 
+            [16] => 
+            [17] => 
+        )
+
+    [suffix] => Array
+        (
+            [0] => 
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => 
+            [9] => 
+            [10] =>  BGN
+            [11] =>  BGN
+            [12] => 
+            [13] => 
+            [14] => 
+            [15] => 
+            [16] => 
+            [17] => 
+        )
+
+    [output_type] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 1
+                )
+
+            [1] => Array
+                (
+                    [0] => 1
+                )
+
+            [2] => Array
+                (
+                    [0] => 11
+                )
+
+            [3] => Array
+                (
+                    [0] => 1
+                )
+
+            [4] => Array
+                (
+                    [0] => 1
+                )
+
+            [5] => Array
+                (
+                    [0] => 1
+                )
+
+            [6] => Array
+                (
+                    [0] => 1
+                )
+
+            [7] => Array
+                (
+                    [0] => 1
+                )
+
+            [8] => Array
+                (
+                    [0] => 1
+                )
+
+            [9] => Array
+                (
+                    [0] => 1
+                )
+
+            [10] => Array
+                (
+                    [0] => 6
+                )
+
+            [11] => Array
+                (
+                    [0] => 6
+                )
+
+            [12] => Array
+                (
+                    [0] => 1
+                )
+
+            [13] => Array
+                (
+                    [0] => 1
+                )
+
+            [14] => Array
+                (
+                    [0] => 1
+                )
+
+            [15] => Array
+                (
+                    [0] => 1
+                )
+
+            [16] => Array
+                (
+                    [0] => 1
+                )
+
+            [17] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [limit] => Array
+        (
+            [0] => 
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 
+            [5] => 
+            [6] => 
+            [7] => 
+            [8] => 
+            [9] => 
+            [10] => 
+            [11] => 
+            [12] => 
+            [13] => 
+            [14] => 
+            [15] => 
+            [16] => 
+            [17] => 
+        )
+
+    [composite_price] => all_product_price
+    [product_ids] => Array
+        (
+        )
+
+    [categories] => Array
+        (
+        )
+
+    [post_status] => Array
+        (
+            [0] => publish
+        )
+
+    [filter_mode] => Array
+        (
+            [product_ids] => include
+            [categories] => include
+            [post_status] => include
+        )
+
+    [campaign_parameters] => Array
+        (
+            [utm_source] => 
+            [utm_medium] => 
+            [utm_campaign] => 
+            [utm_term] => 
+            [utm_content] => 
+        )
+
+    [is_outOfStock] => 
+    [is_backorder] => 
+    [is_emptyDescription] => 
+    [is_emptyTitle] => 
+    [is_emptyImage] => 
+    [is_emptyPrice] => 
+    [product_visibility] => 
+    [shipping_country] => 
+    [tax_country] => 
+    [outofstock_visibility] => 
+    [ptitle_show] => 
+    [decimal_separator] => 
+    [thousand_separator] => 
+    [decimals] => 
+    [feed_option_name] => 
+    [feed_id] => 
+    [meta-box-order-nonce] => 
+    [str_replace] => Array
+        (
+            [0] => Array
+                (
+                    [subject] => 
+                    [search] => 
+                    [replace] => 
+                )
+
+        )
+
+    [wf_tabs] => true
+)
+
+
+2025-03-12T12:54:34+00:00 DEBUG Total 81 product found
+
+2025-03-12T12:54:34+00:00 DEBUG Total 81 batches
+
+2025-03-12T12:54:35+00:00 DEBUG Getting Products Information.
+
+2025-03-12T12:54:35+00:00 DEBUG Validating Product
+
+2025-03-12T13:55:20+00:00 DEBUG Getting Products Information.
+
+2025-03-12T13:55:20+00:00 DEBUG Validating Product
+
+2025-03-12T14:55:23+00:00 DEBUG Getting Products Information.
+
+2025-03-12T14:55:23+00:00 DEBUG Validating Product
+
+2025-03-12T16:06:40+00:00 DEBUG Getting Products Information.
+
+2025-03-12T16:06:40+00:00 DEBUG Validating Product
+
+2025-03-12T17:28:30+00:00 DEBUG Getting Products Information.
+
+2025-03-12T17:28:30+00:00 DEBUG Validating Product
+
+2025-03-12T18:28:58+00:00 DEBUG Getting Products Information.
+
+2025-03-12T18:28:58+00:00 DEBUG Validating Product
+
+2025-03-12T19:30:08+00:00 DEBUG Getting Products Information.
+
+2025-03-12T19:30:08+00:00 DEBUG Validating Product
+
+2025-03-12T20:30:10+00:00 DEBUG Getting Products Information.
+
+2025-03-12T20:30:10+00:00 DEBUG Validating Product
+
+2025-03-12T21:30:52+00:00 DEBUG Getting Products Information.
+
+2025-03-12T21:30:52+00:00 DEBUG Validating Product
+
+2025-03-12T22:50:23+00:00 DEBUG Getting Products Information.
+
+2025-03-12T22:50:23+00:00 DEBUG Validating Product
+
+2025-03-13T00:19:50+00:00 DEBUG Getting Products Information.
+
+2025-03-13T00:19:50+00:00 DEBUG Validating Product
+
+2025-03-13T01:38:56+00:00 DEBUG Getting Products Information.
+
+2025-03-13T01:38:56+00:00 DEBUG Validating Product
+
+2025-03-13T02:40:53+00:00 DEBUG Getting Products Information.
+
+2025-03-13T02:40:53+00:00 DEBUG Validating Product
+
+2025-03-13T03:55:54+00:00 DEBUG Getting Products Information.
+
+2025-03-13T03:55:54+00:00 DEBUG Validating Product
+
+2025-03-13T04:56:03+00:00 DEBUG Getting Products Information.
+
+2025-03-13T04:56:03+00:00 DEBUG Validating Product
+
+2025-03-13T06:01:04+00:00 DEBUG Getting Products Information.
+
+2025-03-13T06:01:04+00:00 DEBUG Validating Product
+
+2025-03-13T07:12:54+00:00 DEBUG Getting Products Information.
+
+2025-03-13T07:12:54+00:00 DEBUG Validating Product
+
+2025-03-13T08:13:07+00:00 DEBUG Getting Products Information.
+
+2025-03-13T08:13:07+00:00 DEBUG Validating Product
+
+2025-03-13T09:16:23+00:00 DEBUG Getting Products Information.
+
+2025-03-13T09:16:23+00:00 DEBUG Validating Product
+
+2025-03-13T10:21:37+00:00 DEBUG Getting Products Information.
+
+2025-03-13T10:21:37+00:00 DEBUG Validating Product
+
+2025-03-13T11:31:48+00:00 DEBUG Getting Products Information.
+
+2025-03-13T11:31:48+00:00 DEBUG Validating Product
+
+2025-03-13T12:31:54+00:00 DEBUG Getting Products Information.
+
+2025-03-13T12:31:54+00:00 DEBUG Validating Product
+
